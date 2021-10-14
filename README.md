@@ -2,11 +2,12 @@
 - 👨‍💻 I’m currently working as **back-end developer** and **software engineer** at <a href="https://github.com/ijuniorversion">iJunior</a>
 - 👨‍🔬 I’m also doing research in **intelligent transportation systems** at my university
 
+##
 ### Quick summary
 <div align="center">
   <a href="https://github.com/rafasumi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafasumi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasumi&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafasumi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasumi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,4 +26,3 @@
 ### Contact
 <a href = "mailto:rafaelfsumitani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-sumitani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
