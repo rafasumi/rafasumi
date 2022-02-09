@@ -1,6 +1,6 @@
 ### Hello there! I'm Rafael
-- 👨‍💻 I’m currently working as **back-end developer** and **software engineer** at <a href="https://github.com/ijuniorversion">iJunior</a>
-- 👨‍🔬 I’m also doing research in **intelligent transportation systems** at my university
+- 👨‍🔬 I’m currently working on a research project in **intelligent transportation systems** at my university
+- 👨‍💻 I'm also interested in **web development**, **DevOps**, **data science** and **artificial intelligence**
 
 ##
 ### Quick summary
