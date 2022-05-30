@@ -1,6 +1,6 @@
 ### Hello there! I'm Rafael
-- 👨‍🔬 I’m currently working on a research project in **intelligent transportation systems** at my university
-- 👨‍💻 I'm also interested in **web development**, **DevOps**, **data science** and **artificial intelligence**
+- 💻 I’m currently working as a software development intern at [Synergia](https://www.linkedin.com/company/synergia-ufmg/)
+- 👨‍💻 My main interests are **software engineering**, **DevOps**, **data science** and **artificial intelligence**
 
 ##
 ### Quick summary
@@ -23,6 +23,6 @@
 </div>
 
 ##
-### Contact
+### How to reach me
 <a href = "mailto:rafaelfsumitani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-sumitani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
