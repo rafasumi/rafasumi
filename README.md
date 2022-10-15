@@ -1,5 +1,5 @@
 ### Hello there! I'm Rafael
-- 💻 I’m currently working as a undergraduate research assistant at [Compilers Lab - DCC/UFMG](https://github.com/lac-dcc)
+- 💻 I’m currently working as an undergraduate research assistant at [Compilers Lab - DCC/UFMG](https://github.com/lac-dcc)
 
 ##
 ### Quick summary
