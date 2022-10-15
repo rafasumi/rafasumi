@@ -1,6 +1,5 @@
 ### Hello there! I'm Rafael
-- 💻 I’m currently working as a software development intern at [Synergia](https://www.linkedin.com/company/synergia-ufmg/)
-- 👨‍💻 My main interests are **software engineering**, **DevOps**, **data science** and **artificial intelligence**
+- 💻 I’m currently working as a undergraduate research assistant at [Compilers Lab - DCC/UFMG](https://github.com/lac-dcc)
 
 ##
 ### Quick summary
